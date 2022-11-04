@@ -1,4 +1,4 @@
-from User_interface import get_info as gi
+from Sem7_8_UI import get_info as gi
 
 info = gi()
 def writing_scv ():
